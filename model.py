@@ -6,6 +6,9 @@ import settings
 from data_processor import train_data
 
 
+# Dataset from https://www.kaggle.com/competitions/house-pricing-prediction/data
+
+
 __MODEL = data_processor.ImportableObject("main_ml_model")
 
 
